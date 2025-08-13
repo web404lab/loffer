@@ -1,3 +1,9 @@
+本博客主题来自：https://github.com/FromEndWorld/LOFFER
+我在此感谢博客主题的作者FromEndWorld
+以下文章由博客主题作者创作
+
+
+
 LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
 
 这是一个可以发布在GitHub的Jekyll博客，你不需要编写代码或使用命令行即可获得一个部署在GitHub的博客。
